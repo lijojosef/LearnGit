@@ -44,4 +44,11 @@ git stash clear
 ## connection 
 git push origin master
 
+## Authenticating git remote
+https://statistics.berkeley.edu/computing/faqs/git-auth
+
+## Generating tokens
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
 ## Branches
+
