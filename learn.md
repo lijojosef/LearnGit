@@ -17,3 +17,9 @@ git add .
 
 ## Commit
 git commit -m "comment"
+
+## To restore the added one
+git restore --staged filename.extension
+
+## to check the logs
+git log
