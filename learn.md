@@ -23,3 +23,6 @@ git restore --staged filename.extension
 
 ## to check the logs
 git log
+
+## removing a commit from the history of the project
+git reset HASH_ID 
