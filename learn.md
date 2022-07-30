@@ -26,3 +26,22 @@ git log
 
 ## removing a commit from the history of the project
 git reset HASH_ID 
+
+## Stashing the changes
+git stash
+
+## Poping the stash
+git stash pop
+
+## Clearing stash
+git stash clear
+
+## Connecting to the repository
+- Create a repository in gitHub
+- git remote add origin LINK
+- git remote -v (to see all the branches)
+
+## connection 
+git push origin master
+
+## Branches
