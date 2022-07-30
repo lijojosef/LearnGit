@@ -51,4 +51,19 @@ https://statistics.berkeley.edu/computing/faqs/git-auth
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 ## Branches
+git branch BRANCH_NAME
+
+## Switching to the new branch
+git checkout BRANCH_NAME
+
+## Merging the new branch to the main branch
+git merge BRANCH_NAME
+
+# Working with existing projects
+## Cloning the project
+git clone URL
+
+## Adding upstream - To take a pull request from the main link where you've forked
+git remote add upstream URL
+
 
